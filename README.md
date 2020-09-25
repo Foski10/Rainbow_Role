@@ -11,6 +11,10 @@ Download [node.js](https://nodejs.org/en/download/)
 npm install
 ```
 
-Thats it! Feel free to use the code for your programs.
+After installing NPM, go into java script terminal and type **node main.js**
+
+Then enter your bot token and Server ID
+
+And thats it! Feel free to use the code for your programs.
 
 ![alt text](https://media.discordapp.net/attachments/747516818092195872/747524633938493440/unknown.png?width=471&height=631)
