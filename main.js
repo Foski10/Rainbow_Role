@@ -5,13 +5,13 @@ const readline = require("readline-sync");
 const setTitle = require("console-title");
 
 console.clear();
-setTitle("Discord Rainbow roles | Developed By Udxr#6191")
+setTitle("Discord Rainbow roles | Developed By Foski")
 let token = readline.question("Please enter your discord token (user of bot): ")
 let guildID = readline.question("Please enter the server ID (user must be in the server): ")
 
 bot.on("ready", () => {
     console.clear();
-    setTitle(`Discord Rainbow roles | Developed By Udxr#6191 | Logged into ${bot.user.tag}`)
+    setTitle(`Discord Rainbow roles | Developed By Foski | Logged into ${bot.user.tag}`)
     console.log(`Logged into ${bot.user.tag}`)
     console.log("Please type `!startrainbow` inside the server you would like to do it in.")
 })
