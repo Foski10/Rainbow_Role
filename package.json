@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Udxr#6191",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "console-title": "^1.1.0",
